@@ -104,8 +104,8 @@ img {
 /* barra navegação */
 nav {
     font-family: var(--mono);
-    font-size: 80%;
-    padding: 4rem 1rem;
+    font-size: 70%;
+    padding: 1rem 1rem;
 }
 
 nav h1 a {
